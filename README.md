@@ -40,7 +40,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 Im Aspiring junior Data Analysis holding a Diploma in Information Communication Technology Qualification.
 You can reach out to me on the information bellow 
 - **Email:** ngomanegladwell586@gmail.com
-- **LinkedIn** www.linkedin.com/in/
+- **LinkedIn** https://www.linkedin.com/in/
 gladwell-ngomane-247509335?trk=contact-infor
 
 - **Phone:** 0609464227
