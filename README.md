@@ -41,6 +41,6 @@ Im Aspiring junior Data Analysis holding a Diploma in Information Communication 
 You can reach out to me on the information bellow 
 - **Email:** ngomanegladwell586@gmail.com
 - **LinkedIn** www.linkedin.com/in/
-gladwell-ngomane
+gladwell-ngomane-247509335?trk=contact-infor
 
 - **Phone:** 0609464227
