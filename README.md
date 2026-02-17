@@ -48,8 +48,5 @@ Microsoft Excel is a powerful spreadsheet application used for data analysis, vi
 - Project 3: [Link to Project 3 Folder]  
 
 ## Contact Information
-
-Feel free to contact me for any inquiries!
-## Contact Information
 - **Email:** ngomanegladwell586@gmail.com
 - **Phone:** 0609464227
