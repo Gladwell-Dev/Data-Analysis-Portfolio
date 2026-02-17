@@ -9,7 +9,6 @@
 - [Contact Information](#contact-information)
 - [Education](#education)
 - [Certificates](#certificates)
-- My Cv Or Resume: [Link to Project 1 Folder]
 
 ## About
 Hi, I'm Gladwell ! I have an analytical background in Data Management  and I have  completed my Diploma in Information Communication Technology ( Information Systems ) . I have developed a strong foundation in the Application Development  and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data Analysis as an entry-level data specialist.
@@ -21,12 +20,11 @@ I like exploring new data analysis tools and techniques, and I am always looking
 ## Skills
 - SQL  
 - MySQL  
-- PostgreSQL  
-- SQL Server  
+- PostgreSQL    
 - PowerBI  
 - Excel
   
-- **Tech Tools**
+**Tech Tools**
 - Oracle SQL developer 
 - mySQL Workbench
 - SQL Server
@@ -36,7 +34,7 @@ I developed a Small Banking data Systems.
 Built and Managed the Database Systems for Android Application and School Management System.
 Implemeted CRUD Operations , Authentication , and Database Integration.
 
-- **Skills**: data cleaning, data analysis ,data visualization.
+**Skills**: data cleaning, data analysis ,data visualization.
 -  DML,  Data Query Language,  Data Definition Language.
 -  Joins , Creating Views .
 
