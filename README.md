@@ -1,12 +1,14 @@
 # Data-Analysis-Portfolio
 ## 👋 Welcome!  I'm a ICT graduate dedicated in data analyst with expertise in database management and business intelligence. This portfolio showcases my projects, skills, and insights in data analysis, visualization, and database optimization.  
-# README.md
+
 
 ## Table of Contents
 - [About](#about)
 - [Skills](#skills)
 - [My Portfolio Projects](#featured-projects)
 - [Contact Information](#contact-information)
+- [Education](#education)
+- [Certificates](#certificates)
 - My Cv Or Resume: [Link to Project 1 Folder]
 
 ## About
@@ -23,15 +25,27 @@ I like exploring new data analysis tools and techniques, and I am always looking
 - SQL Server  
 - PowerBI  
 - Excel
+  
+- **Tech Tools**
+- Oracle SQL developer 
+- mySQL Workbench
+- SQL Server
+   
 ## My Portfolio Projects
+I developed a Small Banking data Systems.
+Built and Managed the Database Systems for Android Application and School Management System.
+Implemeted CRUD Operations , Authentication , and Database Integration.
 
+- **Skills**: data cleaning, data analysis ,data visualization.
+-  DML,  Data Query Language,  Data Definition Language.
+-  Joins , Creating Views .
 
 
 ## Education
 University of Mpumalanga : Diploma in Information Communication Technology-Applications Development || 2023 - 2025
 Pre-University : Mahuvo Secondary School ( Science & Mathemarics ) 2019 - 2021
 
-## Certificate 
+## Certificates 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have
 - Mpumalanga Artificial inteligence Hackathon || 2024
 - HCIA Clound Storage || 2025
