@@ -41,6 +41,7 @@ Implemeted CRUD Operations , Authentication , and Database Integration.
 
 ## Education
 University of Mpumalanga : Diploma in Information Communication Technology-Applications Development || 2023 - 2025
+
 Pre-University : Mahuvo Secondary School ( Science & Mathemarics ) 2019 - 2021
 
 ## Certificates 
