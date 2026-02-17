@@ -8,11 +8,6 @@
 - [Featured Projects](#featured-projects)
 - [Contact Information](#contact-information)
 
-## About
-
-I'm a passionate data analyst with a strong ICT diploma. You can reach me at:
-- Email: ngomanegladwell586@gmail.com  
-- Phone: 0609464227
 
 ## Skills
 - SQL  
@@ -48,5 +43,7 @@ Microsoft Excel is a powerful spreadsheet application used for data analysis, vi
 - Project 3: [Link to Project 3 Folder]  
 
 ## Contact Information
+Im Aspiring junior Data Analysis holding a Diploma in Information Communication Technology Qualification.
+You can reach out to me on the information bellow 
 - **Email:** ngomanegladwell586@gmail.com
 - **Phone:** 0609464227
