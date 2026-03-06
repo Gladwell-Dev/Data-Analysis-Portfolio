@@ -17,14 +17,14 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 I like exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-###  LogOut Screen
+### Database
 <p align="center">
-  <img src="logout.jpeg" width="500"/>
+  <img src="Data Query.png" width="500"/>
 </p
 
-###  LogOut Screen
+### QueryView
 <p align="center">
-  <img src="logout.jpeg" width="500"/>
+  <img src="Query.png" width="500"/>
 </p
 ## Skills
 - SQL  
