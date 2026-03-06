@@ -39,14 +39,15 @@ I like exploring new data analysis tools and techniques, and I am always looking
 - SQL Server
    
 ## My Portfolio Projects
-I developed a Small Banking data Systems.
-Built and Managed the Database Systems for Android Application and School Management System.
-Implemeted CRUD Operations , Authentication , and Database Integration.
+-i Developed a  Retail Shopping data systems for Shoprite  ( python , postgre , power Bi , and Excel ) 
+-I developed a Banking data Systems.
+-Built and Managed the Database Systems for Android Application and School Management System.
+-Implemeted CRUD Operations , Authentication , and Database Integration.
 
 **Skills**: data cleaning, data analysis ,data visualization.
 -  DML,  Data Query Language,  Data Definition Language.
 -  Joins , Creating Views .
-
+-  Data Security management
 
 ## Education
 University of Mpumalanga : Diploma in Information Communication Technology-Applications Development || 2023 - 2025
