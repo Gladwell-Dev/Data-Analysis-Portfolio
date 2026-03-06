@@ -24,7 +24,7 @@ I like exploring new data analysis tools and techniques, and I am always looking
 
 ### QueryView
 <p align="center">
-  <img src="Query.png" width="500"/>
+  <img src="query.png" width="500"/>
 </p
 ## Skills
 - SQL  
