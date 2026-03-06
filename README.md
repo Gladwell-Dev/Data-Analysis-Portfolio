@@ -39,7 +39,7 @@ I like exploring new data analysis tools and techniques, and I am always looking
 - SQL Server
    
 ## My Portfolio Projects
-- i Developed a  Retail Shopping data systems for Shoprite  ( python , postgre , power Bi , and Excel ) 
+- i Developed a  Retail Shopping data systems for Shoprite  ( python , postgreSQL , power Bi , and Excel ) 
 - I developed a Banking data Systems.
 - Built and Managed the Database Systems for Android Application and School Management System.
 - Implemeted CRUD Operations , Authentication , and Database Integration.
