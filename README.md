@@ -28,7 +28,7 @@ I like exploring new data analysis tools and techniques, and I am always looking
 </p
 ### Python 
 <p align="center">
-  <img src="Python1.png" width="500"/>
+  <img src="python1.png" width="500"/>
 </p
   
 ## Skills
