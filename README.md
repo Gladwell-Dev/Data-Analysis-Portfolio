@@ -26,6 +26,11 @@ I like exploring new data analysis tools and techniques, and I am always looking
 <p align="center">
   <img src="Query1.png" width="500"/>
 </p
+### Python 
+<p align="center">
+  <img src="Python1.png" width="500"/>
+</p
+  
 ## Skills
 - SQL  
 - MySQL  
