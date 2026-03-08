@@ -26,7 +26,8 @@ I like exploring new data analysis tools and techniques, and I am always looking
 <p align="center">
   <img src="Query1.png" width="500"/>
 </p
-### Python 
+  
+### Python Code 
 <p align="center">
   <img src="python1.png" width="500"/>
 </p
