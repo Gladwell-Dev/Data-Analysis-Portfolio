@@ -31,7 +31,6 @@ I like exploring new data analysis tools and techniques, and I am always looking
   <img src="python1.png" width="500"/>
 </p
 
-
   
 ## Skills
 - SQL  
