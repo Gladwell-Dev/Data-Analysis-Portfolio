@@ -47,7 +47,7 @@ I like exploring new data analysis tools and techniques, and I am always looking
 ## My Portfolio Projects
 - I Developed a  Retail Shopping data systems for Shoprite  ( python , postgreSQL , power Bi , and Excel ) 
 - I developed a Banking data Systems.
-- Built and Managed the Database Systems for Android Application and School Management System.
+- Built and Managed the Database Systems for Android Application and School Management System. 
 - Implemeted CRUD Operations , Authentication , and Database Integration.
 
 **Skills**: data cleaning, data analysis ,data visualization.
