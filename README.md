@@ -42,7 +42,7 @@ I like exploring new data analysis tools and techniques, and I am always looking
 **Tech Tools**
 - Oracle SQL developer 
 - mySQL Workbench
-- SQL Server
+- SQL Server 
    
 ## My Portfolio Projects
 - I Developed a  Retail Shopping data systems for Shoprite  ( python , postgreSQL , power Bi , and Excel ) 
