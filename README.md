@@ -53,7 +53,7 @@ I like exploring new data analysis tools and techniques, and I am always looking
 **Skills**: data cleaning, data analysis ,data visualization.
 -  DML,  Data Query Language,  Data Definition Language.
 -  Joins , Creating Views .
--  Data Security management
+-  Data Security management.
 
 ## Education
 University of Mpumalanga : Diploma in Information Communication Technology-Applications Development || 2023 - 2025
