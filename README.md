@@ -18,7 +18,7 @@ I like exploring new data analysis tools and techniques, and I am always looking
 
 ### Database
 <p align="center">
-  <img src="Data Query.png" width="500"/>
+  <img src="Data Query.png" width="500"/> 
 </p
 
 ### QueryView
