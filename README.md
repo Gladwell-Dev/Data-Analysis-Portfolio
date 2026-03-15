@@ -58,7 +58,7 @@ I like exploring new data analysis tools and techniques, and I am always looking
 ## Education
 University of Mpumalanga : Diploma in Information Communication Technology-Applications Development || 2023 - 2025
 
-Pre-University : Mahuvo Secondary School ( Science & Mathemarics ) 2021
+Pre-University : Mahuvo Secondary School ( Science & Mathemarics ) 2021 
 
 ## Certificates 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have
