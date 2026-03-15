@@ -6,7 +6,7 @@
 - [Skills](#skills)
 - [My Portfolio Projects](#featured-projects)
 - [Contact Information](#contact-information)
-- [Education](#education)
+- [Education](#education) 
 - [Certificates](#certificates)
    
 ## About
