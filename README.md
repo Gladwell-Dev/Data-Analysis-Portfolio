@@ -9,7 +9,7 @@
 - [Education](#education) 
 - [Certificates](#certificates)
    
-## About
+## About 
 Hi, I'm Gladwell ! I have an analytical background in Data Management  and I have  completed my Diploma in Information Communication Technology ( Information Systems ) . I have developed a strong foundation in the Application Development  and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data Analysis as an entry-level data specialist.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
