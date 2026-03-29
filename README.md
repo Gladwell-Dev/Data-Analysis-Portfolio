@@ -1,7 +1,7 @@
 # Data-Analysis-Portfolio
 ## 👋 Welcome!  I'm a ICT graduate dedicated in data analyst with expertise in database management and business intelligence. This portfolio showcases my projects, skills, and insights in data analysis, visualization, and database optimization.  
 
-## Table of Contents 
+## Table of Contents  
 - [About](#about)
 - [Skills](#skills)
 - [My Portfolio Projects](#featured-projects)
